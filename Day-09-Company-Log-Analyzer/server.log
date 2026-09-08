@@ -1,0 +1,9 @@
+2026-09-08 08:01:23 INFO User Hamza logged in
+2026-09-08 08:02:11 INFO User Ali logged in
+2026-09-08 08:03:14 WARNING Failed login attempt
+2026-09-08 08:03:42 INFO User Usman logged in
+2026-09-08 08:04:51 ERROR Database connection failed
+2026-09-08 08:05:12 INFO User Hamza logged out
+2026-09-08 08:06:33 ERROR Database connection failed
+2026-09-08 08:07:19 WARNING High memory usage
+2026-09-08 08:08:44 INFO User Ali logged out
