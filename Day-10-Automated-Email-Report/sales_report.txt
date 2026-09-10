@@ -1,0 +1,12 @@
+DAILY SALES REPORT
+
+Date: September 9, 2026
+
+Total Orders: 128
+Total Revenue: Rs. 485,000
+Average Order Value: Rs. 3,789
+
+Top Product: Laptop
+Top Salesperson: Hamza
+
+Status: Sales target achieved
