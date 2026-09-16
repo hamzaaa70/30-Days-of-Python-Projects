@@ -1,9 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 
-print("================================")
 print("      WEB DATA COLLECTOR")
-print("================================")
 
 url = "https://books.toscrape.com/"
 
